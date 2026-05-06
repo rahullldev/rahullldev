@@ -49,5 +49,5 @@ Automated extraction of ERP-ready data from industrial Material Test Reports wit
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/rahul-gupta-b87a1424b
+- LinkedIn: https://linkedin.com/in/rahul-gupta-8b3627221
 - Email: rahul963714@gmail.com
