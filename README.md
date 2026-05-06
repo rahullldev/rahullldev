@@ -1,16 +1,25 @@
-## Hi there 👋
+# Rahul Gupta
 
-<!--
-**rahullldev/rahullldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack & AI Developer building AI-powered applications, automation systems, and scalable backend products.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Rahev — AI Real-Time Chat Platform
+ChatGPT-like web app with real-time streaming responses and persistent chat history.
+
+**Tech:** React, Node.js, MongoDB, WebSockets, OAuth, LLM APIs  
+**Live:** https://rahve.onrender.com/
+
+---
+
+### Telegram File Streaming Bot
+Built and operated a Telegram-based file-serving and streaming system used by 10k+ users.
+
+**Tech:** Python, MongoDB, Cloudflare Workers, Telegram APIs
+
+---
+
+### AI-Powered MTR Extraction Pipeline
+Automated extraction of ERP-ready data from industrial Material Test Reports with 99%+ accuracy.
+
+**Tech:** n8n, Odoo ERP, LLMs
